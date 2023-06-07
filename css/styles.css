@@ -1,9 +1,12 @@
 /* Your code goes here, if needed */
 button {
+    padding: 7px;
     text-decoration: none;
     color:white;
     border-radius: 5px;
-    background-color: rgb(15, 39, 255);
+    background-color: rgb(15, 91, 255);
+    border: none;
+    outline: none;
   
 }
 
