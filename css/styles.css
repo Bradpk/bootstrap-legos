@@ -7,7 +7,11 @@ button {
     background-color: rgb(15, 91, 255);
     border: none;
     outline: none;
-  
+}
+
+.vertical {
+    position:absolute;
+    top: 30%;
 }
 
 /* DO NOT CHANGE CODE BELOW THIS LINE */
